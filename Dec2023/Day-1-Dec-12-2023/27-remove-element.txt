@@ -1,0 +1,2 @@
+Here we just iterate through elements in the list, we check if the element is equal to the value and update if it is not equal to the value.
+We also kept a counter 'i' which will count how many numbers are not equal to the value provided.
