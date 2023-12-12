@@ -1,0 +1,5 @@
+Here both arrays are already sorted. We iterate through second array and keep checking first array from back to start.
+- Here, we check if the nums1[i] > nums2[j] if nums1 part is higher, we update it last else we update with nums2 part. This will continue until all j items are went through.
+- We have to use while loop here because we may endup going more iterations when nums1[i]> nums2[j], if we use any other loop, this would not work
+
+This is the first leet code problem I have ever solved. Now score is no longer 0 but 1 now :)
