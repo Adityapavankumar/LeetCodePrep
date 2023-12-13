@@ -1,0 +1,6 @@
+Here, it was given that the list has already been sorted in ascending order.
+That means the current element must be greater than the previous element if the previous element does exist.
+
+We iterate through the array. For every element in array (after the first) we check if it is greater than the (i-1)th element, if it is we keep adding it to the list while incrementing i.
+
+Here i is the count of elements in the array if all elements are unique, we use it as the iterator.
