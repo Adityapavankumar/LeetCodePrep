@@ -28,4 +28,4 @@ class Solution(object):
 ```
 
 This is one of the best space complex solutions I have submitted so far.
-![solution](submissionpng.png)
+![solution](submission.png)
