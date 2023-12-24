@@ -39,3 +39,5 @@ object Solution {
 
 This is today's daily challenge
 ![submission](submission-1-with-stats.png)
+
+Before this there was another submission:
