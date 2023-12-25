@@ -1,4 +1,4 @@
-Goal is similar to 55 but here we need number of jumps to make it to end. This is done through Greedy approach.
+The goal is similar to 55 but here we need the number of jumps to make it to the end. This is done through the Greedy approach.
 
 Code:
 ```scala
