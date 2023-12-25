@@ -4,7 +4,7 @@ We determine by simply starting at an origin and updating the point. We store th
 
 If it is already present => path crossing itself => return true
 
-If no such crossing detected, we return false in the end.
+If no such crossing is detected, we return false in the end.
 
 ```scala
 object Solution {
