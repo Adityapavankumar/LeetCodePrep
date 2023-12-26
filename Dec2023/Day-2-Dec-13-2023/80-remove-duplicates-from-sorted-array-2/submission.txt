@@ -1,6 +1,6 @@
-This time we have to find duplicates in the sorted array and leave them out but the catch is each element can have upto one duplicate value.
+This time we have to find duplicates in the sorted array and leave them out but the catch is each element can have up to one duplicate value.
 
 Now to implement this, we initialized our iterator i = 0 first.
-Then we iterated through the array and when i is less than 2, we just add the elements back into array.
-From i = 2 and above we verify if our current element in array is greater than previous element which was 2 positions behind the current element.
-If it is, we add element to the array. In this way, we excuse any single duplicate items in the array while only handling the second and higher duplicates of that element.
+Then we iterated through the array and when i is less than 2, we just added the elements back into the array.
+From i = 2 and above we verify if our current element in the array is greater than the previous element which was 2 positions behind the current element.
+If it is, we add the element to the array. In this way, we excuse any single duplicate items in the array while only handling the second and higher duplicates of that element.
