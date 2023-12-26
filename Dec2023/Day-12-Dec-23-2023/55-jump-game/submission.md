@@ -1,4 +1,4 @@
-Here, goal is to find if the values in array enable it to reach to the end.
+Here, the goal is to find if the values in the array enable it to reach the end.
 
 Code below:
 ```scala
@@ -23,5 +23,5 @@ object Solution {
 }
 ```
 
-This is first submission of the day.
+This is the first submission of the day.
 ![submission](submission.png)
