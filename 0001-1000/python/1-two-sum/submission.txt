@@ -1,0 +1,15 @@
+Problem: There will be a target value, find which two indices in the array values when summed equal to target
+
+Solution1:
+First iterate through array indices  (i)
+Within this, again iterate through remaining indices  (j)
+Check anywhere if values of both indices summed is equal to target   (nums[i]+nums[j])==target
+If there exists such combo, return the combo
+This solution is simple but can be very time complex O(n*n) since two loops running in
+
+Solution2:
+Here, we create a hashmap before hand (hashMap)
+Iterate through indices of array again (i)
+In every iteration, compute difference between target and the index value (difference= target-nums[i])
+Now check if this difference is already present in hashMap keys, if it is return the value corresponding to difference and i   [hashMap[difference], i]
+At each iteration, update hashMap with value to index    hashMap[nums[i]]=i   - this would help in checks in previous step 
