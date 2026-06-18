@@ -1,6 +1,7 @@
 # LeetCodePrep
 
-This repository contains my solutions for LeetCode problems, organized day by day.
+This repository contains my solutions for LeetCode problems, organized by problem number.
+I intend to stay consistent in this journey and solve as many problems as I can.
 
 ## Language Usage
 
@@ -10,5 +11,5 @@ This repository contains my solutions for LeetCode problems, organized day by da
 
 Feel free to explore the solutions and check the progression
 
-I stopped earlier in 2023 itself, now resuming in April 2026 (never too late I assume)
+I stopped earlier in 2023 itself, now resuming in April 2026 (never too late, I assume)
 
